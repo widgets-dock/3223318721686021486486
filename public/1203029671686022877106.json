@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352803390419",
+    "project_id": "glory-fit-smartwatch-set",
+    "storage_bucket": "glory-fit-smartwatch-set.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352803390419:android:290323b89891a2cd6be526",
+        "android_client_info": {
+          "package_name": "com.tukangnggedabrus.glrftsmrtwthst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352803390419-h4ht1k1megr12h79c9rnjt14him0sn9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7HoTqSTVriOhyAuOeHyNZ_TljA8gk40k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352803390419-h4ht1k1megr12h79c9rnjt14him0sn9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
